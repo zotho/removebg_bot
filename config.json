@@ -1,0 +1,11 @@
+{
+  "service_url": "https://www.remove.bg/upload",
+  "proxy_host": "PROXY HOSTNAME",
+  "proxy_port": "PROXY PORT",
+  "image_server_port": "YOUR SERVER PORT",
+  "image_server_host": "YOUR SERVER HOSTNAME",
+  "image_server_folder_path": "imgs",
+  "image_server_processed_folder_path": "processed",
+  "image_server_temp_path": "temp",
+  "tg_token": "YOUR CONFIG"
+}
